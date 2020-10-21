@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b8979ec-9422-4bf9-9b1c-6ea6109cd4c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/golang" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jAeCKKA3DghjeKdnKKziFOwv3I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestCalculadora_Historico in calculadora_go/cmd/calculadora">
+    <configuration name="go build calculadora_go/cmd/calculadora" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="calculadora_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/cmd/calculadora/main.go" />
+      <package value="calculadora_go" />
+      <directory value="$PROJECT_DIR$/cmd/calculadora" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCalculadora_Historico in calculadora_go/cmd/calculadora" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="calculadora_go" />
+      <working_directory value="$PROJECT_DIR$/cmd/calculadora" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="calculadora_go/cmd/calculadora" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCalculadora_Historico\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCalculadora_SomaPositiva in calculadora_go/cmd/calculadora" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="calculadora_go" />
+      <working_directory value="$PROJECT_DIR$/cmd/calculadora" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="calculadora_go/cmd/calculadora" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCalculadora_SomaPositiva\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test calculadora" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="calculadora_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="calculadora_go" />
+      <directory value="$PROJECT_DIR$/cmd/calculadora" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build calculadora_go/cmd/calculadora" />
+      <item itemvalue="Go Test.go test calculadora" />
+      <item itemvalue="Go Test.TestCalculadora_SomaPositiva in calculadora_go/cmd/calculadora" />
+      <item itemvalue="Go Test.TestCalculadora_Historico in calculadora_go/cmd/calculadora" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestCalculadora_Historico in calculadora_go/cmd/calculadora" />
+        <item itemvalue="Go Test.TestCalculadora_SomaPositiva in calculadora_go/cmd/calculadora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="196" width="400" height="684" key="#GOPATH" timestamp="1603251823868">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state x="755" y="196" width="400" height="684" key="#GOPATH/0.28.1920.1014@0.28.1920.1014" timestamp="1603251823868" />
+    <state x="418" y="193" width="1084" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603253062746">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state x="418" y="193" width="1084" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1014@0.28.1920.1014" timestamp="1603253062746" />
+    <state x="738" y="297" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603253889247">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state x="738" y="297" width="424" height="491" key="FileChooserDialogImpl/0.28.1920.1014@0.28.1920.1014" timestamp="1603253889247" />
+    <state width="1868" height="167" key="GridCell.Tab.0.bottom" timestamp="1603254221547">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state width="1868" height="167" key="GridCell.Tab.0.bottom/0.28.1920.1014@0.28.1920.1014" timestamp="1603254221547" />
+    <state width="1868" height="167" key="GridCell.Tab.0.center" timestamp="1603254221546">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state width="1868" height="167" key="GridCell.Tab.0.center/0.28.1920.1014@0.28.1920.1014" timestamp="1603254221546" />
+    <state width="1868" height="167" key="GridCell.Tab.0.left" timestamp="1603254221545">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state width="1868" height="167" key="GridCell.Tab.0.left/0.28.1920.1014@0.28.1920.1014" timestamp="1603254221545" />
+    <state width="1868" height="167" key="GridCell.Tab.0.right" timestamp="1603254221547">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state width="1868" height="167" key="GridCell.Tab.0.right/0.28.1920.1014@0.28.1920.1014" timestamp="1603254221547" />
+    <state x="456" y="170" width="1007" height="737" key="SettingsEditor" timestamp="1603253751834">
+      <screen x="0" y="28" width="1920" height="1014" />
+    </state>
+    <state x="456" y="170" width="1007" height="737" key="SettingsEditor/0.28.1920.1014@0.28.1920.1014" timestamp="1603253751834" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/calculadora_go$go_test_calculadora.out" NAME="go test calculadora Coverage Results" MODIFIED="1603254195439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
