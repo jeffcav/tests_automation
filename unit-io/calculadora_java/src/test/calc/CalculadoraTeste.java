@@ -8,7 +8,7 @@ import junit.framework.TestCase;
 public class CalculadoraTeste extends TestCase {
 	
 	public void testeSomaPositiva() {
-		IArmazenamento armazenamento = new ArmazenamentoArquivo("historico.txt"); 
+		ArmazenamentoArquivo armazenamento = new ArmazenamentoArquivo("historico.txt"); 
 		Calculadora c = new Calculadora(armazenamento);
 		int resultado = c.somar(10, 2);
 		
@@ -17,7 +17,7 @@ public class CalculadoraTeste extends TestCase {
 	
 	
 	public void testDivisaoPorZero() {
-		IArmazenamento armazenamento = new ArmazenamentoArquivo("historico.txt");
+		ArmazenamentoArquivo armazenamento = new ArmazenamentoArquivo("historico.txt");
 		Calculadora c = new Calculadora(armazenamento);
 		Throwable e = null;
 		
@@ -31,7 +31,7 @@ public class CalculadoraTeste extends TestCase {
 	}
 	
 	public void testeHistorico() {		
-		IArmazenamento armazenamento = new ArmazenamentoArquivo("historico.txt");
+		ArmazenamentoArquivo armazenamento = new ArmazenamentoArquivo("historico.txt");
 		Calculadora c = new Calculadora(armazenamento);
 		
 		int resultado;

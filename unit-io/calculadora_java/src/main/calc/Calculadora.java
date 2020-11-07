@@ -3,9 +3,9 @@ package calc;
 import java.util.ArrayList;
 
 public class Calculadora {
-	private IArmazenamento historico;
+	private ArmazenamentoArquivo historico;
 	
-	public Calculadora(IArmazenamento arm) {
+	public Calculadora(ArmazenamentoArquivo arm) {
 		this.historico = arm;
 	}
 	
