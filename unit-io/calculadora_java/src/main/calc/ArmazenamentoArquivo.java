@@ -39,9 +39,7 @@ public class ArmazenamentoArquivo implements IArmazenamento {
 			br.close();
 			
 		}
-		catch(IOException ioe){
-			System.out.println("Error: " + ioe.getMessage());
-		}
+		catch(IOException ioe){}
 		
 		return historico;
 	}
